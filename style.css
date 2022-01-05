@@ -8,11 +8,12 @@ body{
     padding-left: 10px;
 }
 .my-name{
-    color: #356085;
+    color: rgba(0, 0, 255, 0.884);
 }
 .dummy{
-    color: rgba(0, 0, 0, 0.712);
+    color: rgba(0, 0, 0, 0.55);
     font-weight: 500;
+    text-decoration: justify;
 }
 .half-width{
     width: 40%;
@@ -63,4 +64,47 @@ body{
 }
 .item img{
     width: 45%;
+}
+h3{
+    font-size: 30px;
+}
+.fifty-1 img{
+    width: 100%;
+    border-radius: 3%;
+}
+.fifty-1{
+    width: 30%;
+    margin-left: 8%;
+    margin-right: 2%;
+}
+.fifty-2{
+    width: 50%;
+    margin-right: 8%;
+    padding: 2%;
+}
+.third-part{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-size: 10% 35%;
+}
+.forth-part{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 10% 35%;
+}
+#fifty-3{
+    width: 50%;
+    margin-left: 8%;
+    margin-right: 2%;
+    padding: 2% 0%;
+}
+.fifty-4 img{
+    width: 100%;
+}
+#fifty-4{
+    width: 30%;
+    margin-right: 8%;
+    margin-left: 2%;
 }
