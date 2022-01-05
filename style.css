@@ -108,3 +108,16 @@ h3{
     margin-right: 8%;
     margin-left: 2%;
 }
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    padding: 2% 0%;
+}
+footer h6{
+    font-weight: 400;
+}
+.foot{
+    color: coral;
+}
