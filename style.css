@@ -40,3 +40,27 @@ body{
     color: white;
     border-radius: 8px;
 }
+.misson-heading{
+    text-align: center;
+    font-size: 30px;
+}
+.item{
+    width: 27%;
+    padding: 2%;
+    border-radius: 30px;
+}
+#item-1{
+    margin-left: 8%;
+    background-color: rgba(0, 255, 255, 0.082);
+}
+#item-2{
+    margin: 0 2%;
+    background-color: rgba(153, 50, 204, 0.13);
+}
+#item-3{
+    margin-right: 8%;
+    background-color: rgba(233, 150, 122, 0.192);
+}
+.item img{
+    width: 45%;
+}
