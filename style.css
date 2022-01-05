@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif, 'Alfa Slab One', 'Poppins';
+}
+.first-section h1{
+    font-size: 50px;
+    border-left: 4px solid cyan;
+    padding-left: 10px;
+}
+.my-name{
+    color: #356085;
+}
+.dummy{
+    color: rgba(0, 0, 0, 0.712);
+    font-weight: 500;
+}
+.half-width{
+    width: 40%;
+    margin-top: 2%;
+}
+.parent{
+    display: flex;
+}
+#child-1{
+    margin-left: 8%;
+    margin-right: 2%;
+    padding-top: 5%;
+}
+#chils-2{
+    margin-left: 2%;
+    margin-right: 8%;
+}
+.heading-image{
+    width: 100%;
+}
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient( rgba(0, 0, 255, 0.76), cyan);
+    padding: 10px 30px;
+    color: white;
+    border-radius: 8px;
+}
