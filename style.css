@@ -123,3 +123,34 @@ footer h6{
 .foot{
     color: coral;
 }
+.projrct-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 10% 35%;
+}
+.projrct-section img{
+    width: 100%;
+    border-radius: 10%;
+}
+.project{
+    width: 27%;
+    padding: 2%;
+    border-radius: 30px;
+}
+.view-project{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.801), cyan);
+    color: white;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+#project-1{
+    margin-left: 8%;
+}
+#project-2{
+    margin: 0 2%;
+}
+#project-3{
+    margin-right: 8%;
+}
